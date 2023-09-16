@@ -1327,7 +1327,13 @@ letter-spacing: 0.64px;
 width: 230px;
 padding-top: 22px;
 }
+.documents__description a {
+color: #000;
+}
 
+.documents__description a:visited {
+color: #000;
+}
 
 /* END Block documents */
 
